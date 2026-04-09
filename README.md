@@ -1,7 +1,7 @@
  #  Titanic Survival Prediction with XGBoost
 ##  Project Overview
 This project aims to analyze and predict passenger survival on the Titanic using the XGBoost model. The dataset is thoroughly explored through Exploratory Data Analysis (EDA), data visualization, and feature engineering before applying machine learning techniques.
-## 🛠 Problem Statement
+## Problem Statement
 The Titanic disaster is one of the most well-known historical tragedies. The goal of this project is to build a predictive model that determines which passengers were most likely to survive. This problem is critical in demonstrating how data-driven decisions can optimize survival strategies in real-world scenarios, such as safety planning and risk assessment.
 ##  Key Learnings
 Throughout this project, I strengthened my expertise in:
